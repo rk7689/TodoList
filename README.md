@@ -1,7 +1,10 @@
-Angular TodoList
+# Angular TodoList
+
 This is the code for TodoList app
 
-Quick Start
+## Quick Start
+
+```bash
 # Install dependencies
 npm install
 
@@ -10,3 +13,4 @@ ng serve
 
 # Build for production
 ng build
+```
